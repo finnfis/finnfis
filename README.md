@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @finnfis
 - 👀 I’m interested in Programming and Gaming.
-- 🌱 I’m currently learning Java.
+- 🌱 I code in Java.
 - 💞️ I’m looking to collaborate on Minecraft Mods.
 - 📫 How to reach me: On discord! "finnfis".
 - 😄 Pronouns: He/Him.
